@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="oracle">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="275d5f69-082f-4ecc-8028-f225a70430ea" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/egabi/eg/projectmanagement/entities/transactions" />
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="275d5f69-082f-4ecc-8028-f225a70430ea" />
+    </option>
+  </component>
+</project>

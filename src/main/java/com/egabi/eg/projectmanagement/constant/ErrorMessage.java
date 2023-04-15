@@ -1,0 +1,19 @@
+package com.egabi.eg.projectmanagement.constant;
+
+
+public enum ErrorMessage {
+    INVALID_CREDENTIALS,
+    USER_DISABLED,
+    TOKEN_IS_REQUIRED,
+    INVALID_TOKEN,
+    INVALID_TOKEN_SIGNATURE,
+    EXPIRED_TOKEN,
+    UNSUPPORTED_TOKEN,
+    EMPTY_CLAIMS_TOKEN,
+    FORBIDDEN_TOKEN,
+    NOT_AUTHENTICATED,
+    ENTITY_IS_NOT_FOUND,
+    ALREADY_EXIST_USER,
+    ACCOUNT_LOCKED,
+    InvalidInputs;
+}
