@@ -91,8 +91,8 @@
 <!--			</plugin>-->
 <!--		</plugins>-->
 
-		<build>
-		    <plugins>
+		
+		<plugins>
 			<plugin>
 			    <groupId>org.springframework.boot</groupId>
 			    <artifactId>spring-boot-maven-plugin</artifactId>
@@ -100,10 +100,6 @@
 				<mainClass>AppStarter</mainClass>
 			    </configuration>
 			</plugin>
-		    </plugins>
-		</build>
-
-		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
