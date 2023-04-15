@@ -97,7 +97,7 @@
 			    <groupId>org.springframework.boot</groupId>
 			    <artifactId>spring-boot-maven-plugin</artifactId>
 			    <configuration>
-				<mainClass>AppStarter</mainClass>
+				<mainClass>com.egabi.eg.projectmanagement.ProjectManagementApplication</mainClass>
 			    </configuration>
 			</plugin>
 			<plugin>
