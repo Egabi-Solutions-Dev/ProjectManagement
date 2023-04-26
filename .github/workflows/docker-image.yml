@@ -14,6 +14,6 @@ jobs:
 
     steps:
 #     - uses: actions/checkout@v3
-    - uses: actions/.github/workflows/maven.yml@v1
+    - uses: actions/Egabi-Solutions-Dev/ProjectManagement/blob/ed80c01f728c6423013f710161e956607e0b0004/.github/workflows/maven.yml@main
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
